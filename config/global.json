@@ -1,0 +1,8 @@
+{
+    "applicationName" : "leancloudTest",
+    "applicationId": "ivbm4e76o1ufvm81xhywvpzh0xlps3l33t0ad9q5sof2goej",
+    "applicationKey": "qs10azykovrjc37pe9ymvp7hreyuxyc8gghvge12tgum0oiy",
+    "global": {
+        "avVersion": "0.3.1"
+    }
+}
